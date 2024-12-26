@@ -1,4 +1,4 @@
-# Hi there, I'm Farezadesu! 👋
+# Hi there, I'm Fareza! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in technology and programming. Here's a little bit about me:
 
